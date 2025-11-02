@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🗺️ I’m based in Bronx, NY<br><br>👨🏽‍💻 I’m a beginning Front-end Developer.<br><br>🔭 I’m currently pursuing my Bachelor in Computer Science and Studying JavaScript.<br><br>🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/ElianEchavarria" target="_blank">FrontEnd Mentor</a>.<br><br>👯 I am open to new chances and collaborations.<br><br>🌐 I am fluent in English and Spanish.<br><br>How to reach me: <a href="mailto:elianechavarria.dev@gmail.com" target="_blank">elianechavarria.dev@gmail.com</a></p>
+<p align="left">🗺️ I’m based in Bronx, NY<br><br>👨🏽‍💻 I’m a beginning Front-end Developer.<br><br>🔭 I’m currently pursuing my Bachelor in Computer Science and Studying JavaScript.<br><br>🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/ElianEchavarria" target="_blank">FrontEnd Mentor</a>.<br><br>👯 I am open to new chances and collaborations.<br><br>🌐 I am fluent in English and Spanish.<br><br>How to reach me: <a href="mailto:eechavarria.2022@gmail.com" target="_blank">eechavarria.2022@gmail.com</a></p>
 
 ###
 
