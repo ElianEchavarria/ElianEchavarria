@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="1000" height="40" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8232A" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#E8232A" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#F5C518" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#E8232A" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#E8232A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="comet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFF3B0" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFF3B0" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="g2" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="18" width="1000" height="2.5" fill="url(#line)" opacity="0.65"/>
+
+  <!-- comet streaking down the rail -->
+  <g filter="url(#g2)">
+    <rect x="-260" y="17" width="260" height="4" rx="2" fill="url(#comet)">
+      <animate attributeName="x" values="-260;1000" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="0" cy="19" r="5" fill="#FFF3B0">
+      <animate attributeName="cx" values="-10;1010" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4;6.5;4" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- center bolt marker -->
+  <g transform="translate(492,6)" filter="url(#g2)">
+    <path d="M 14 0 L 2 16 L 10 16 L 4 30 L 22 12 L 13 12 L 20 0 Z" fill="#F5C518">
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
