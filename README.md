@@ -1,25 +1,25 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     ⚡ ELIAN ECHAVARRIA — GITHUB PROFILE README ⚡
-     Swap "ElianEchavarria" below for your actual GitHub username
+     ⚡ ELIAN ECHAVARRIA — ANIMATED GITHUB PROFILE README ⚡
+     Replace every "ElianEchavarria" with your real GitHub username.
+     Put the three SVGs in an /assets folder at the repo root.
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:E8232A,100:F5C518&height=230&section=header&text=Hi%20there,%20I'm%20Elian%20👋&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=54&descSize=18&animation=twinkling" width="100%" />
+<img src="./assets/speedforce-hero.svg" width="100%" alt="Elian Echavarria — Front-End Developer" />
 
-<a href="https://github.com/ElianEchavarria">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=E8232A&center=true&vCenter=true&width=700&height=60&lines=Front-End+Developer+%E2%9A%A1;Powered+by+HTML%2C+CSS+%26+JavaScript;Building+at+the+speed+of+thought;Always+chasing+the+next+framework" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=600&color=E8232A&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Front-End+Developer+from+the+Bronx+%E2%9A%A1;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+at+the+speed+of+thought;Open+to+collabs+%E2%80%94+let's+ship+something" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ElianEchavarria&label=Profile%20Views&color=E8232A&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/Focus-Front--End-E8232A?style=for-the-badge&labelColor=1a1a1a" alt="focus" />
-<img src="https://img.shields.io/badge/Based%20in-Bronx,%20NY-F5C518?style=for-the-badge&labelColor=1a1a1a" alt="location" />
+<img src="https://komarev.com/ghpvc/?username=ElianEchavarria&label=PROFILE+VIEWS&color=E8232A&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/ElianEchavarria?style=for-the-badge&color=F5C518&labelColor=1a1a1a&logo=github" alt="followers" />
+<img src="https://img.shields.io/badge/Bronx-NY-E8232A?style=for-the-badge&labelColor=1a1a1a&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-F5C518?style=for-the-badge&labelColor=1a1a1a" alt="status" />
+
+<img src="./assets/speed-divider.svg" width="100%" alt="" />
 
 </div>
-
----
 
 ## ⚡ Speed Force Activated
 
@@ -48,10 +48,8 @@
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" alt="" />
 </div>
-
----
 
 ## 🏃‍♂️ About Me
 
@@ -59,100 +57,114 @@ I am a **Front-End Developer** with a passion for Web Programming. I'm excited t
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
 | | |
 |:--|:--|
-| 🗺️ | I'm based in **Bronx, NY** |
-| 👨🏽‍💻 | I'm a **beginning Front-End Developer** |
-| 🔭 | Currently pursuing my **Bachelor's in Computer Science** and studying **JavaScript** |
-| 🔍 | Take a look at my projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/ElianEchavarria)** |
-| 👯 | I am **open to new chances and collaborations** |
-| 🌐 | I am fluent in **English** and **Spanish** |
+| 🗺️ | Based in **Bronx, NY** |
+| 👨🏽‍💻 | A **beginning Front-End Developer** |
+| 🔭 | Pursuing my **Bachelor's in Computer Science** & studying **JavaScript** |
+| 🔍 | Projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/ElianEchavarria)** |
+| 👯 | **Open to new chances and collaborations** |
+| 🌐 | Fluent in **English** and **Spanish** |
 
 </td>
-<td width="45%" valign="top">
-
+<td width="44%" valign="top">
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coding.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coding.gif" width="100%" alt="" />
 </div>
-
 </td>
 </tr>
 </table>
 
-### 📫 How to reach me
-
 <div align="center">
 
+### 📫 Catch Me If You Can
+
 <a href="mailto:eechavarria.2022@gmail.com">
-  <img src="https://img.shields.io/badge/Email-eechavarria.2022@gmail.com-E8232A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="email" />
-</a>
+<img src="https://img.shields.io/badge/Email-eechavarria.2022@gmail.com-E8232A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="email" /></a>
 <a href="https://www.frontendmentor.io/profile/ElianEchavarria">
-  <img src="https://img.shields.io/badge/Frontend%20Mentor-Profile-F5C518?style=for-the-badge&logo=frontendmentor&logoColor=black&labelColor=1a1a1a" alt="frontend mentor" />
-</a>
+<img src="https://img.shields.io/badge/Frontend%20Mentor-Profile-F5C518?style=for-the-badge&logo=frontendmentor&logoColor=black&labelColor=1a1a1a" alt="fem" /></a>
+
+<img src="./assets/speed-divider.svg" width="100%" alt="" />
 
 </div>
-
----
 
 ## 🛠️ Tech & Tools
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="languages" />
+<img src="./assets/tech-marquee.svg" width="100%" alt="tech stack" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,nodejs&theme=dark" alt="frameworks" />
+<br/><br/>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=bootstrap,sass,nodejs,git,github,vscode&theme=dark" alt="tools" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,netlify,vercel,npm,markdown,linux&theme=dark" alt="platforms" />
 
 </div>
 
-> 💡 **Heads up:** swap any icons above for the stack you actually use — the full list of options lives at [skillicons.dev](https://skillicons.dev).
+> 💡 Swap any icon for your real stack — full list at [skillicons.dev](https://skillicons.dev).
 
----
+<div align="center">
+<img src="./assets/speed-divider.svg" width="100%" alt="" />
+</div>
 
 ## 📊 Stats in Motion
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ElianEchavarria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8232A&icon_color=F5C518&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianEchavarria&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8232A&text_color=FFFFFF&langs_count=8" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ElianEchavarria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8232A&icon_color=F5C518&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianEchavarria&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8232A&text_color=FFFFFF&langs_count=8" alt="langs" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ElianEchavarria&hide_border=true&background=0D1117&stroke=E8232A&ring=F5C518&fire=E8232A&currStreakLabel=F5C518&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="streak stats" />
+<img src="https://streak-stats.demolab.com?user=ElianEchavarria&hide_border=true&background=0D1117&stroke=E8232A&ring=F5C518&fire=E8232A&currStreakLabel=F5C518&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ElianEchavarria&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ElianEchavarria&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="trophies" />
 
 </div>
 
----
+## 📈 Commit History
 
-## 🐍 Watch the Contributions Run
+An animated line chart of every commit over the last 31 days — it draws itself in each time the page loads.
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElianEchavarria&bg_color=0D1117&color=F5C518&line=E8232A&point=FFF3B0&area=true&area_color=E8232A&hide_border=true&custom_title=Commit%20Velocity%20%E2%9A%A1&days=31" width="100%" alt="activity graph" />
+
+<br/>
+
+**Full contribution calendar**
+
+<img src="https://ghchart.rshah.org/E8232A/ElianEchavarria" width="100%" alt="contribution chart" />
+
+</div>
+
+## 🐍 Snake Contribution Tracker
+
+The snake eats through your contribution squares — it regenerates every 12 hours from a GitHub Action.
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElianEchavarria/ElianEchavarria/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElianEchavarria/ElianEchavarria/output/snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ElianEchavarria/ElianEchavarria/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ElianEchavarria/ElianEchavarria/output/snake.svg" width="100%" />
 </picture>
 
 </div>
 
 <details>
-<summary><b>⚙️ How to turn the snake animation on</b> (click to expand)</summary>
+<summary><b>⚙️ Setup — click here to turn the snake on</b></summary>
 
 <br/>
 
-1. In your profile repo, create the file `.github/workflows/snake.yml`
-2. Paste this in:
+Create `.github/workflows/snake.yml` in your profile repo and paste this in:
 
 ```yaml
 name: Generate Snake Animation
@@ -186,29 +198,65 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Go to the **Actions** tab and run the workflow once manually. After it finishes, the animation appears above.
+Then open the **Actions** tab → select the workflow → **Run workflow**. Once it finishes, the animation appears above.
+
+**Want Pac-Man instead of a snake?** Add `.github/workflows/pacman.yml`:
+
+```yaml
+name: Generate Pacman Contribution Graph
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/pacman-contribution-graph.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 </details>
 
----
+<div align="center">
+<img src="./assets/speed-divider.svg" width="100%" alt="" />
+</div>
 
 ## 🎯 Goals
 
 <div align="center">
 
-| | Goal |
-|:---:|:--|
-| 🚀 | Never stop working on improving my talents |
-| 🌐 | Improve my understanding of online mobility ideas and apply them to my work |
-| 🎨 | Explore new designs and create new projects to elevate my work |
+| | Goal | Progress |
+|:---:|:--|:--|
+| 🚀 | Never stop working on improving my talents | ![](https://geps.dev/progress/72?dangerColor=E8232A&warningColor=F5C518&successColor=F5C518) |
+| 🌐 | Improve my understanding of online mobility ideas and apply them | ![](https://geps.dev/progress/55?dangerColor=E8232A&warningColor=F5C518&successColor=F5C518) |
+| 🎨 | Explore new designs and create new projects to elevate my work | ![](https://geps.dev/progress/64?dangerColor=E8232A&warningColor=F5C518&successColor=F5C518) |
 
 </div>
 
----
+## 💭 Dev Quote of the Day
 
 <div align="center">
 
-### ⚡ 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+
+</div>
+
+<div align="center">
+
+<img src="./assets/speed-divider.svg" width="100%" alt="" />
+
+### ⚡
 
 > ### *"Don't rest at the middle, rest at the end."*
 > #### — Kobe Bryant
@@ -217,12 +265,12 @@ jobs:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Bottom%20Line.gif" width="100%" alt="" />
 
 <br/>
 
 **Thanks for stopping by — let's build something fast.** 🏃‍♂️💨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,50:E8232A,100:8B0000&height=140&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C518,50:E8232A,100:8B0000&height=150&section=footer&animation=twinkling" width="100%" alt="" />
 
 </div>
