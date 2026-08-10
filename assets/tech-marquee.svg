@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img" aria-label="tech stack marquee">
+  <defs>
+    <linearGradient id="mg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8232A"/>
+      <stop offset="100%" stop-color="#F5C518"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000" stop-opacity="1"/>
+      <stop offset="10%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="90%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="edges">
+      <rect width="1000" height="64" fill="#fff"/>
+      <rect width="1000" height="64" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect width="1000" height="64" rx="8" fill="#0D1117"/>
+  <rect width="1000" height="64" rx="8" fill="none" stroke="url(#mg)" stroke-width="2" opacity="0.6"/>
+
+  <g mask="url(#edges)">
+    <g font-family="Consolas,Courier New,monospace" font-size="20" font-weight="bold" fill="#C9D1D9">
+      <g>
+        <text x="0" y="40">
+          HTML5 <tspan fill="#E8232A">⚡</tspan> CSS3 <tspan fill="#F5C518">⚡</tspan> JAVASCRIPT <tspan fill="#E8232A">⚡</tspan> REACT <tspan fill="#F5C518">⚡</tspan> TAILWIND <tspan fill="#E8232A">⚡</tspan> SASS <tspan fill="#F5C518">⚡</tspan> GIT <tspan fill="#E8232A">⚡</tspan> FIGMA <tspan fill="#F5C518">⚡</tspan> </tspan> Tailwind CSS <tspan fill="#F5C518">⚡</tspan> </tspan> Postgres SQL <tspan fill="#F5C518">⚡</tspan> </tspan> NextJS <tspan fill="#F5C518">⚡</tspan> </tspan> Express <tspan fill="#F5C518">⚡</tspan>
+        </text> 
+        <text x="1180" y="40">
+          HTML5 <tspan fill="#E8232A">⚡</tspan> CSS3 <tspan fill="#F5C518">⚡</tspan> JAVASCRIPT <tspan fill="#E8232A">⚡</tspan> REACT <tspan fill="#F5C518">⚡</tspan> TAILWIND <tspan fill="#E8232A">⚡</tspan> SASS <tspan fill="#F5C518">⚡</tspan> GIT <tspan fill="#E8232A">⚡</tspan> FIGMA <tspan fill="#F5C518">⚡</tspan> </tspan> Postgres SQL <tspan fill="#F5C518">⚡</tspan> </tspan> NextJS <tspan fill="#F5C518">⚡</tspan> </tspan> Express <tspan fill="#F5C518">⚡</tspan>
+        </text>
+        <animateTransform attributeName="transform" type="translate"
+                          from="0 0" to="-1180 0" dur="18s" repeatCount="indefinite"/>
+      </g>
+    </g>
+  </g>
+</svg>
