@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src=".![Uploading speedforce-hero.svg…]()" width="100%" alt="Elian Echavarria — Front-End Developer" />
+<img src="./assets/speedforce-hero.svg" width="100%" alt="Elian Echavarria — Front-End Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=600&color=E8232A&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Front-End+Developer+from+the+Bronx+%E2%9A%A1;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+at+the+speed+of+thought;Open+to+collabs+%E2%80%94+let's+ship+something" alt="Typing SVG" />
 
